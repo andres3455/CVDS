@@ -25,3 +25,6 @@ crear una rama en especifica por cada funcionalidad
 hacer commits pequeños y frecuentes
 
 tener una buena estructura de código, que se mantenga clara y organizada 
+
+
+hola mi nombre es ruseel y soy un guia explorador de la tribu 54 guarida 12
